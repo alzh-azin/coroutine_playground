@@ -33,6 +33,8 @@
 .idea/navEditor.xml
 .idea/qaplug_profiles.xml
 .idea/codeStyles/
+.idea/jarRepositories.xml
+.idea/kotlinc.xml
 
 # AWS User-specific
 .idea/**/aws.xml
